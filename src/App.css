@@ -68,11 +68,7 @@ section p:first-child, .timer div:last-child span{
   font-size: 3em;
 }
 
-@media screen and (max-widhth: 480px) {
-      .timer div:last-child{
 
-      }
-}
 
 .date{
   text-align: center;
